@@ -1,3 +1,3 @@
-# IPL-Score-Prediction
+# IPL-ForeCast
 
 _comming_
